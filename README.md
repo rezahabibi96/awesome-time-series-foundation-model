@@ -16,10 +16,10 @@ A curated and structured list of **time series foundation model**
 
 ### Survey Papers
 
-| **Title** | **Year** | **Venue** |
-|-----------|----------|-----------|
-| Foundation models for time series analysis: A tutorial and survey | 2024 | KDD |
-| Self-supervised learning for time series: Contrastive or generative? | 2023 | IJCAI |
+| **Title** | **Year** | **Venue** | **Type** | **Setting** |
+|-----------|----------|-----------|----------|-------------|
+| Foundation models for time series analysis: A tutorial and survey | 2024 | KDD | survey paper |  |
+| Self-supervised learning for time series: Contrastive or generative? | 2023 | IJCAI | benchmark paper |  |
 
 ### Research Papers
 
