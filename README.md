@@ -37,4 +37,4 @@ A curated and structured list of **time series foundation model**
 ---
 
 ## Acknowledgements
-Inspired by awesome lists in time series foundation model:`
+Inspired by awesome lists in time series foundation model:
