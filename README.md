@@ -25,6 +25,8 @@ A curated and structured list of **time series foundation model**
 
 | **Title** | **Year** | **Venue** |
 |-----------|----------|-----------|
+| Training-free time series classification via in-context reasoning with llm agents -- FETA | 2025 | ArXiv |
+| FinCast: A foundation model for financial time-series forecasting -- FinCast | 2025 | IKCIKM |
 | A decoder-only foundation model for time-series forecasting -- TimesFM | 2023 | ArXiv |
 | Lag-Llama: Towards foundation models for probabilistic time series forecasting -- Lag-Llama | 2023 | ArXiv |
 | TimeGPT-1 -- TimeGPT-1 | 2023 | ArXiv |
