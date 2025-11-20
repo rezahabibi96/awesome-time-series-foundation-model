@@ -21,6 +21,7 @@ A curated and structured list of **time series foundation model**
 | Foundation models for time series: A survey | 2025 | ArXiv | survey paper |  |
 | An empirical valuation of foundation models for multivariate time series classification | 2025 | KDD | benchmark paper |  |
 | Foundation models for time series analysis: A tutorial and survey | 2024 | KDD | survey paper |  |
+| A Survey on Time-Series Pre-Trained Models | 2024 | TKDE | survey paper |  |
 | Self-supervised learning for time series: Contrastive or generative? | 2023 | IJCAI | benchmark paper |  |
 
 ### Research Papers
@@ -29,6 +30,7 @@ A curated and structured list of **time series foundation model**
 |-----------|----------|-----------|
 | Training-free time series classification via in-context reasoning with llm agents -- FETA | 2025 | ArXiv |
 | FinCast: A foundation model for financial time-series forecasting -- FinCast | 2025 | IKCIKM |
+| Pre-training Time Series Models with Stock Data Customization -- SSPT | 2025 | KDD |
 | A decoder-only foundation model for time-series forecasting -- TimesFM | 2023 | ArXiv |
 | Lag-Llama: Towards foundation models for probabilistic time series forecasting -- Lag-Llama | 2023 | ArXiv |
 | TimeGPT-1 -- TimeGPT-1 | 2023 | ArXiv |
