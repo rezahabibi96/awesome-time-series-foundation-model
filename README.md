@@ -27,7 +27,7 @@ A curated and structured list of **time series foundation model**
   - Pretrained Vision Language Model — `PT-VLM`
   - Pretrained Large Language Model — `PT-LLM`
   - Pretrained Audio Model —`PT-AM`
-  - Fully Supervised — `PT-Sup`
+  - Fully Supervised — `PT-FulSup`
   - Self-supervised — Learning
     - Generative — `PT-SSL-Gen`
     - Contrastive — `PT-SSL-Con`
@@ -36,7 +36,7 @@ A curated and structured list of **time series foundation model**
 - **Adaptation Method**
   - Prompt Engineering — `Adapt-Prompt`
   - Tokenization Design — `Adapt-Token`
-  - Fine-tuning — `Adapt-FT`
+  - Fine-tuning Parameter — `Adapt-FT`
   - Zero-shot Inference — `Adapt-ZS`
 
 - **Architecture**
