@@ -80,9 +80,9 @@ A curated and structured list of **time series foundation model**
 
 | **Title** | **Year** | **Venue** | **Type** | **Setting** |
 |-----------|----------|-----------|----------|-------------|
-| Foundation models for time series: A survey | 2025 | ArXiv | survey paper |  |
+| Foundation models for time series: A survey | 2025 | ArXiv | survey paper | `**` |
 | An empirical valuation of foundation models for multivariate time series classification | 2025 | KDD | benchmark paper |  |
-| Foundation models for time series analysis: A tutorial and survey | 2024 | KDD | survey paper |  |
+| Foundation models for time series analysis: A tutorial and survey | 2024 | KDD | survey paper | `**` |
 | A survey on time-series pre-trained models | 2024 | TKDE | survey paper |  |
 | Self-supervised learning for time series: Contrastive or generative? | 2023 | IJCAI | benchmark paper |  |
 
