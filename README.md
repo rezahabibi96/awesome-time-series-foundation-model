@@ -31,7 +31,8 @@ A curated and structured list of **time series foundation model**
   - Self-supervised — Learning
     - Generative — `PT-SSL-Gen`
     - Contrastive — `PT-SSL-Con`
-    - Non Contrastive — `PT-SSL-NonCon`
+    - Non-Contrastive — `PT-SSL-NonCon`
+    - Pretext-Task — `PT-SSL-Pretext-Task`
 
 - **Adaptation Method**
   - Prompt Engineering — `Adapt-Prompt`
